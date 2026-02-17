@@ -1,6 +1,6 @@
 # 🧠 Citation Analyst — LangGraph.js + Groq + LLaMA 3.3
 
-Un pipeline multi-agents en TypeScript qui **corrige**, **identifie l'auteur** et **raconte l'histoire** d'une citation, grâce à [LangGraph.js](https://github.com/langchain-ai/langgraphjs), [Groq](https://groq.com/) et **LLaMA 3.3 70B**.
+Un pipeline multi-agents en TypeScript qui **corrige**, **identifie l'auteur** et **raconte l'histoire** d'une citation, grâce à [LangGraph.js], [Groq](https://groq.com/) et **LLaMA 3.3 70B**.
 
 <p align="center">
   <img src="./static/graph.png" alt="Vue du graphe dans LangGraph Studio" width="75%">
