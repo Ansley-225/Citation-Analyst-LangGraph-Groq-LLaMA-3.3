@@ -27,8 +27,8 @@ Le pipeline Citation Analyst :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-username/citation-analyst.git
-cd citation-analyst
+git clone https://github.com/Ansley-225/Citation-Analyst-LangGraph-Groq-LLaMA-3.3.git
+cd Citation-Analyst-LangGraph-Groq-LLaMA-3.3
 ```
 
 ### 2. Configurer les variables d'environnement
@@ -67,7 +67,7 @@ npx @langchain/langgraph-cli dev
 │   ├── llm.ts         # Configuration Groq / LLaMA 3.3 70B
 │   ├── noeuds.ts      # Les trois agents du pipeline
 │   └── graph.ts       # Construction et exécution du graphe
-├── .env.example
+├── .env
 └── package.json
 ```
 
