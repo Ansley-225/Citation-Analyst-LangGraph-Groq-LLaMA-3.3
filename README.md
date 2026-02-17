@@ -54,7 +54,7 @@ npm install
 ### 4. Lancer l'application
 
 ```bash
-npx ts-node src/graph.ts
+npx @langchain/langgraph-cli dev
 ```
 
 ---
